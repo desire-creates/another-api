@@ -1,0 +1,6 @@
+@HplusSport.API_HostAddress = http://localhost:5078
+
+GET {{HplusSport.API_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
